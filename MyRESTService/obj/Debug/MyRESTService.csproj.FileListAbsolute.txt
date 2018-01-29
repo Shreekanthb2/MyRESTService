@@ -1,0 +1,11 @@
+D:\Data\Dev\MyRESTService\MyRESTService\bin\MyRESTService.dll.config
+D:\Data\Dev\MyRESTService\MyRESTService\bin\MyRESTService.dll
+D:\Data\Dev\MyRESTService\MyRESTService\bin\MyRESTService.pdb
+D:\Data\Dev\MyRESTService\MyRESTService\obj\Debug\MyRESTService.dll
+D:\Data\Dev\MyRESTService\MyRESTService\obj\Debug\MyRESTService.pdb
+C:\Users\Shreekanth\Downloads\MyRESTService\MyRESTService\MyRESTService\bin\MyRESTService.dll.config
+C:\Users\Shreekanth\Downloads\MyRESTService\MyRESTService\MyRESTService\bin\MyRESTService.dll
+C:\Users\Shreekanth\Downloads\MyRESTService\MyRESTService\MyRESTService\bin\MyRESTService.pdb
+C:\Users\Shreekanth\Downloads\MyRESTService\MyRESTService\MyRESTService\obj\Debug\MyRESTService.dll
+C:\Users\Shreekanth\Downloads\MyRESTService\MyRESTService\MyRESTService\obj\Debug\MyRESTService.pdb
+C:\Users\Shreekanth\Downloads\MyRESTService\MyRESTService\MyRESTService\obj\Debug\MyRESTService.csprojResolveAssemblyReference.cache
