@@ -9,3 +9,9 @@ C:\Users\Shreekanth\Downloads\MyRESTService\MyRESTService\MyRESTService\bin\MyRE
 C:\Users\Shreekanth\Downloads\MyRESTService\MyRESTService\MyRESTService\obj\Debug\MyRESTService.dll
 C:\Users\Shreekanth\Downloads\MyRESTService\MyRESTService\MyRESTService\obj\Debug\MyRESTService.pdb
 C:\Users\Shreekanth\Downloads\MyRESTService\MyRESTService\MyRESTService\obj\Debug\MyRESTService.csprojResolveAssemblyReference.cache
+G:\GitHub-Demo\MyRESTService\MyRESTService\bin\MyRESTService.dll.config
+G:\GitHub-Demo\MyRESTService\MyRESTService\bin\MyRESTService.dll
+G:\GitHub-Demo\MyRESTService\MyRESTService\bin\MyRESTService.pdb
+G:\GitHub-Demo\MyRESTService\MyRESTService\obj\Debug\MyRESTService.csprojResolveAssemblyReference.cache
+G:\GitHub-Demo\MyRESTService\MyRESTService\obj\Debug\MyRESTService.dll
+G:\GitHub-Demo\MyRESTService\MyRESTService\obj\Debug\MyRESTService.pdb
