@@ -11,7 +11,7 @@ using System.IO;
 namespace MyRESTService
 {
    
-    [ServiceContract]
+    [ServiceContract(Namespace ="https://www.InsightsCreative.com/Products/")]
     public interface IProductRESTService
     {
         [OperationContract]
